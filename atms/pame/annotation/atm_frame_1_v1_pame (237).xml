@@ -1,0 +1,50 @@
+<annotation>
+	<folder>selected-frames</folder>
+	<filename>atm_frame_1_v1_pame (237).jpg</filename>
+	<path>atm_frame_1_v1_pame (237).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>476</ymin>
+			<xmax>783</xmax>
+			<ymax>763</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>280</ymin>
+			<xmax>526</xmax>
+			<ymax>534</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>518</xmin>
+			<ymin>1</ymin>
+			<xmax>743</xmax>
+			<ymax>169</ymax>
+		</bndbox>
+	</object>
+</annotation>
