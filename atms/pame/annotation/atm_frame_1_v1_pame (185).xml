@@ -1,7 +1,7 @@
 <annotation>
 	<folder>selected-frames</folder>
-	<filename>atm_frame_1211_v1.jpg</filename>
-	<path>atm_frame_1211_v1.jpg</path>
+	<filename>atm_frame_1_v1_pame (185).jpg</filename>
+	<path>atm_frame_1_v1_pame (185).jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -45,6 +45,18 @@
 			<ymin>1</ymin>
 			<xmax>1707</xmax>
 			<ymax>458</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>helmet</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>488</xmin>
+			<ymin>259</ymin>
+			<xmax>591</xmax>
+			<ymax>349</ymax>
 		</bndbox>
 	</object>
 </annotation>

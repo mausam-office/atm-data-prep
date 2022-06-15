@@ -23,4 +23,16 @@
 			<ymax>470</ymax>
 		</bndbox>
 	</object>
+	<object>
+		<name>phone</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1344</xmin>
+			<ymin>91</ymin>
+			<xmax>1413</xmax>
+			<ymax>165</ymax>
+		</bndbox>
+	</object>
 </annotation>

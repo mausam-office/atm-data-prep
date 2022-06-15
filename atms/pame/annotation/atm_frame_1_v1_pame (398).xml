@@ -14,11 +14,11 @@
 	<object>
 		<name>person</name>
 		<pose>Unspecified</pose>
-		<truncated>0</truncated>
+		<truncated>1</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>32</xmin>
-			<ymin>560</ymin>
+			<xmin>1</xmin>
+			<ymin>520</ymin>
 			<xmax>779</xmax>
 			<ymax>764</ymax>
 		</bndbox>
@@ -33,18 +33,6 @@
 			<ymin>588</ymin>
 			<xmax>621</xmax>
 			<ymax>683</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>person</name>
-		<pose>Unspecified</pose>
-		<truncated>1</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>1</xmin>
-			<ymin>495</ymin>
-			<xmax>159</xmax>
-			<ymax>656</ymax>
 		</bndbox>
 	</object>
 </annotation>

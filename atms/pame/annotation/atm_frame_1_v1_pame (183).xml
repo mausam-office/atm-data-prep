@@ -47,4 +47,16 @@
 			<ymax>466</ymax>
 		</bndbox>
 	</object>
+	<object>
+		<name>helmet</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>486</xmin>
+			<ymin>258</ymin>
+			<xmax>591</xmax>
+			<ymax>349</ymax>
+		</bndbox>
+	</object>
 </annotation>
